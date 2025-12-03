@@ -11,7 +11,7 @@ This repository contains the completed tasks for my **Data Science & Machine Lea
 
 ## 📂 Repository Structure
 
-```text
+
 ├── 📁 Task 1 - EDA & Data Cleaning
   
 ├── 📁 Task 2 - Sales Forecasting (Regression)
@@ -25,7 +25,7 @@ This repository contains the completed tasks for my **Data Science & Machine Lea
 ├── 📁 Task 6 - MLOps & Deployment
 
 └── README.md
-````
+
 
 -----
 
